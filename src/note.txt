@@ -1,0 +1,10 @@
+--version
+--help
+--uid-min
+{
+    find by uid 
+    find by shell -> /bin/false
+    find by home directory
+    find by last login
+}
+--exclue
