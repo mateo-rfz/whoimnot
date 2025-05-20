@@ -2,9 +2,9 @@
 --help
 --uid-min
 {
-    find by uid 
-    find by shell -> /bin/false
-    find by home directory
-    find by last login
+    find by uid  --uid-min
+    find by shell -> /bin/false --shell
+    find by home directory --home
+    find by last login --last-login
 }
 --exclue
